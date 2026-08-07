@@ -1,0 +1,13 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(python -c ' *)",
+      "Skill(dataviz)",
+      "Skill(dataviz:*)",
+      "Bash(jupyter nbconvert *)",
+      "Bash(python -m jupyter nbconvert --to notebook --execute --inplace \"Semana 1-class.ipynb\")",
+      "Bash(grep -o \"σ[^\\\\\"]\\\\{0,120\\\\}\" \"c:/Users/djlop/OneDrive/DIEGO/UVG/2026/segundo semestre/DEEP LEARNING/Labs/S3 - Lab_Semana3_LSTM.ipynb\")",
+      "Bash(python3 -c ' *)"
+    ]
+  }
+}
